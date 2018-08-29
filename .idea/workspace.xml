@@ -100,8 +100,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="231">
-                <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="7" />
+              <first_editor relative-caret-position="294">
+                <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -1050,7 +1050,7 @@
       <updated>1535330878137</updated>
       <workItem from="1535330887433" duration="2895000" />
       <workItem from="1535333842423" duration="2143000" />
-      <workItem from="1535522978799" duration="2502000" />
+      <workItem from="1535522978799" duration="2581000" />
     </task>
     <task id="LOCAL-00001" summary="idea">
       <created>1535330989452</created>
@@ -1122,11 +1122,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535525213848</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="更新目录">
+      <created>1535525491079</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1535525491079</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7540000" />
+    <option name="totallyTimeSpent" value="7619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1184,7 +1191,8 @@
     <MESSAGE value="简单工厂模式" />
     <MESSAGE value="工厂模式" />
     <MESSAGE value="博文" />
-    <option name="LAST_COMMIT_MESSAGE" value="博文" />
+    <MESSAGE value="更新目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新目录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1627,8 +1635,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="231">
-            <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="7" />
+          <first_editor relative-caret-position="294">
+            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
