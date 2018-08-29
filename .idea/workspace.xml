@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fee75541-afea-43c1-95e4-8188ee063f11" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/factory/img/factory1.png" afterPath="$PROJECT_DIR$/src/main/java/factory/img/factory1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/factory/README.md" afterPath="$PROJECT_DIR$/src/main/java/factory/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1020,7 +1020,7 @@
       <updated>1535330878137</updated>
       <workItem from="1535330887433" duration="2895000" />
       <workItem from="1535333842423" duration="2143000" />
-      <workItem from="1535522978799" duration="4262000" />
+      <workItem from="1535522978799" duration="4355000" />
     </task>
     <task id="LOCAL-00001" summary="idea">
       <created>1535330989452</created>
@@ -1113,11 +1113,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535525937756</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="工厂设计模式">
+      <created>1535527306807</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1535527306807</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9300000" />
+    <option name="totallyTimeSpent" value="9393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1177,7 +1184,8 @@
     <MESSAGE value="博文" />
     <MESSAGE value="更新目录" />
     <MESSAGE value="md" />
-    <option name="LAST_COMMIT_MESSAGE" value="md" />
+    <MESSAGE value="工厂设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="工厂设计模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
