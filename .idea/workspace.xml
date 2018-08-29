@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fee75541-afea-43c1-95e4-8188ee063f11" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/abstractFactory/CarFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/abstractFactory/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/abstractFactory/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/abstractFactory/LowCarFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/abstractFactory/LuxuryCarFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/abstractFactory/Seat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/abstractFactory/Tyre.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/factorymethod/Audi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/factorymethod/AudiFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/factorymethod/Benz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/factorymethod/BenzFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/factorymethod/Byd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/factorymethod/BydFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/factorymethod/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/factorymethod/CarFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/factorymethod/Client.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.project" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/img/blog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/factory/img/blog1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/factory/README.md" afterPath="$PROJECT_DIR$/src/main/java/factory/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,16 +22,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BydFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/BydFactory.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
@@ -100,18 +75,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/Engine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LuxuryCarFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/LuxuryCarFactory.java">
+      <file leaf-file-name="LowCarFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/LowCarFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -120,12 +85,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory/factorymethod/Car.java">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="252">
+                <caret line="12" column="100" lean-forward="false" selection-start-line="12" selection-start-column="100" selection-end-line="12" selection-end-column="100" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/Engine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="630">
+              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+              <folding>
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LuxuryCarFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/LuxuryCarFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,13 +176,13 @@
         <option value="$PROJECT_DIR$/src/main/java/singleton/SingletonDom4.java" />
         <option value="$PROJECT_DIR$/src/main/java/singleton/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/singleton/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/factory/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/Audi.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/Client01.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/CarFactory2.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/simplefactory/Client02.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/factorymethod/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/abstractFactory/Seat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/README.md" />
       </list>
     </option>
   </component>
@@ -349,75 +353,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="abstractFactory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tyre.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="czy-study-design-patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="czy-study-design-patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="factory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="abstractFactory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Seat.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="czy-study-design-patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="czy-study-design-patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="factory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="abstractFactory" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1112,7 +1048,7 @@
       <updated>1535330878137</updated>
       <workItem from="1535330887433" duration="2895000" />
       <workItem from="1535333842423" duration="2143000" />
-      <workItem from="1535522978799" duration="1869000" />
+      <workItem from="1535522978799" duration="2221000" />
     </task>
     <task id="LOCAL-00001" summary="idea">
       <created>1535330989452</created>
@@ -1170,11 +1106,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535524304786</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="工厂模式">
+      <created>1535524862177</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1535524862177</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6907000" />
+    <option name="totallyTimeSpent" value="7259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1230,7 +1173,8 @@
     <MESSAGE value="idea" />
     <MESSAGE value="单例模式" />
     <MESSAGE value="简单工厂模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="简单工厂模式" />
+    <MESSAGE value="工厂模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="工厂模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1241,11 +1185,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/singleton/singleton.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/singleton/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="861">
@@ -1463,17 +1402,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="42">
-            <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factory/simplefactory/Audi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1621,22 +1549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/LuxuryCarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/Seat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1658,6 +1570,57 @@
         <state relative-caret-position="231">
           <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/LuxuryCarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/abstractFactory/LowCarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="252">
+            <caret line="12" column="100" lean-forward="false" selection-start-line="12" selection-start-column="100" selection-end-line="12" selection-end-column="100" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
