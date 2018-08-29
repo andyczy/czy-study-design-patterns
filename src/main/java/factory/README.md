@@ -1,6 +1,8 @@
 # 工厂设计模式
 
-创建者与调用者分离
+    工厂模式是我们最常用的实例化对象模式了，是用工厂方法代替new操作的一种模式。
+    
+    
 
 ![](https://github.com/andyczy/czy-study-design-patterns/blob/master/src/main/java/factory/img/factory1.png "工厂设计模式")
  
